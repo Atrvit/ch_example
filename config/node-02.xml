@@ -114,7 +114,7 @@
     </zookeeper>
 
     <macros>
-        <shard>2</shard>
-        <replica>node-04</replica>
+        <shard>1</shard>
+        <replica>node-02</replica>
     </macros>
 </yandex>

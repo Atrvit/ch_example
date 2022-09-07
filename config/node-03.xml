@@ -115,6 +115,6 @@
 
     <macros>
         <shard>2</shard>
-        <replica>node-04</replica>
+        <replica>node-03</replica>
     </macros>
 </yandex>
